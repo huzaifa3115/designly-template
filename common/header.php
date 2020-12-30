@@ -23,7 +23,7 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <a href="#" class="mb-0 text-white">
-                    40% CASHBACK FOR NEW USERS | CODE: <strong><span class="text-light">GURDEEPOSAHAN40 <span class="mdi mdi-tag-faces"></span></span> </strong>
+                    40% CASHBACK FOR NEW USERS | CODE: <strong><span class="text-light">FLAT40 <span class="mdi mdi-tag-faces"></span></span> </strong>
                 </a>
             </div>
         </div>
@@ -147,7 +147,7 @@
         <nav class="navbar navbar-expand-lg navbar-light bg-white pt-0 pb-0">
             <div class="container">
                 <a class="navbar-brand" href="index.php">
-                    <img src="img/logo.png" alt="gurdeep osahan designer">
+                    <img src="img/logo.png" alt="Muhammad Huzaifa">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>

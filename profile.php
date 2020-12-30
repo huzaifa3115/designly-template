@@ -405,9 +405,9 @@
                  <div class="p-4">
                     <div class="osahan-user text-center">
                        <div class="osahan-user-media">
-                          <img class="mb-3 rounded-pill shadow-sm mt-1" src="img/user/1.jpg" alt="gurdeep singh osahan">
+                          <img class="mb-3 rounded-pill shadow-sm mt-1" src="img/user/1.jpg" alt="Muhammad Huzaifa">
                           <div class="osahan-user-media-body">
-                             <h6 class="mb-2 font-weight-bold">Gurdeep Singh</h6>
+                             <h6 class="mb-2 font-weight-bold">Muhammad Huzaifa</h6>
                              <p class="mb-1">+91 85680-79956</p>
                              <p><a href="https://askbootstrap.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e28b838f8d91838a838ca2858f838b8ecc818d8f">[email&#160;protected]</a></p>
                              <p class="mb-0 font-weight-bold"><a class="btn btn-outline-info btn-sm" data-toggle="modal" data-target="#edit-profile-modal" href="#"><i class="icofont-ui-edit"></i> EDIT</a></p>
@@ -448,7 +448,7 @@
                              <div class="col-sm-6">
                                 <div class="form-group">
                                    <label class="control-label">First Name <span class="required">*</span></label>
-                                   <input class="form-control border-form-control" value="" placeholder="Gurdeep" type="text">
+                                   <input class="form-control border-form-control" value="" placeholder="Muhammad Huzaifa" type="text">
                                 </div>
                              </div>
                              <div class="col-sm-6">
@@ -789,7 +789,7 @@
                                       <div class="mr-4"><i class="icofont-ui-home icofont-3x"></i></div>
                                       <div class="media-body">
                                          <span class="badge badge-danger">Default - Home</span>
-                                         <h6 class="mb-3 mt-1 text-dark">Gurdeep Singh</h6>
+                                         <h6 class="mb-3 mt-1 text-dark">Muhammad Huzaifa</h6>
                                          <p>Delhi Bypass Rd GK mall Near, Jawaddi Taksal, Ludhiana, Punjab 141002, India</p>
                                          <p class="text-secondary">Phone: <span class="text-dark">8872306061</span></p>
                                          <hr>
@@ -1060,7 +1060,7 @@
                                    </div>
                                    <div class="card-body">
                                       <p class="card-text mb-2 text-dark"><strong>TITLE</strong></p>
-                                      <p class="card-text mb-2"><strong>Gurdeep Singh Osahan</strong></p>
+                                      <p class="card-text mb-2"><strong>Muhammad Huzaifa</strong></p>
                                       <p class="card-text mb-0"> 4894 Burke Street<br>
                                          North Billerica, MA 01862
                                       </p>
@@ -1074,7 +1074,7 @@
                                    </div>
                                    <div class="card-body">
                                       <p class="card-text mb-2 text-dark"><strong>TITLE</strong></p>
-                                      <p class="card-text mb-2"><strong>Gurdeep Singh Osahan</strong></p>
+                                      <p class="card-text mb-2"><strong>Muhammad Huzaifa</strong></p>
                                       <p class="card-text mb-0"> 4894 Burke Street<br>
                                          North Billerica, MA 01862
                                       </p>
@@ -1090,7 +1090,7 @@
                                    </div>
                                    <div class="card-body">
                                       <p class="card-text text-dark mb-2">Payment via Master Card <strong><span class="badge badge-success">Paid</span></strong></p>
-                                      <p class="card-text mb-2"><strong>Name Of card </strong>: Gurdeep Osahan</p>
+                                      <p class="card-text mb-2"><strong>Name Of card </strong>: Muhammad Huzaifa</p>
                                       <p class="card-text mb-0"><strong>Card Number </strong>: 00335 251 124</p>
                                    </div>
                                 </div>
@@ -1102,7 +1102,7 @@
                                    </div>
                                    <div class="card-body">
                                       <p class="card-text text-dark mb-2"> via Post Air Mail #4502</p>
-                                      <p class="card-text mb-2"><strong>Gurdeep Singh Osahan</strong></p>
+                                      <p class="card-text mb-2"><strong>Muhammad Huzaifa</strong></p>
                                       <p class="card-text mb-0"> 4894 Burke Street North Billerica</p>
                                    </div>
                                 </div>
