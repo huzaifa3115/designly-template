@@ -414,7 +414,7 @@
                                                     <div class="media">
                                                         <div class="media-body">
                                                             <span class="badge badge-danger">Default - Home</span>
-                                                            <h6 class="mb-3 mt-3 text-dark">Gurdeep Singh Osahan</h6>
+                                                            <h6 class="mb-3 mt-3 text-dark">Muhammad Huzaifa</h6>
                                                             <p>Model Town Rd Delhi Bypass Rd, Jawaddi Taksal, Ludhiana, Punjab 141002, India</p>
                                                             <p class="text-secondary">Phone: <span class="text-dark">+91 85680-79956</span></p>
                                                             <button data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" type="button" class="btn btn-primary btn-block">DELIVER HERE</button>
