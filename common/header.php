@@ -6,7 +6,7 @@
     <meta name="description" content="muhammad huzaifa">
     <meta name="author" content="muhammad huzaifa">
     <title>Designly - E-Commerce Template</title>
-    <link rel="icon" type="image/png" href="img/fav-icon.png">
+    <link rel="icon" type="image/png" href="img/logo.png">
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="vendor/slider/slider.css">
     <link href="vendor/select2/css/select2-bootstrap.css" />
