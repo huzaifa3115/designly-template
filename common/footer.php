@@ -85,11 +85,12 @@
 <?php include_once 'cart-sidebar.php'; ?>
 
 <script src="vendor/jquery/jquery.min.js" type="text/javascript"></script>
+<script src="js/custom.js" type="text/javascript"></script>
 <script src="vendor/bootstrap/js/bootstrap.bundle.min.js" type="text/javascript"></script>
-<script src="vendor/select2/js/select2.min.js" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js"></script>
 <script src="vendor/owl-carousel/owl.carousel.js" type="text/javascript"></script>
 <script src="vendor/slider/slider.js" type="text/javascript"></script>
-<script src="js/custom.js" type="text/javascript"></script>
+<script src="vendor/datatables/datatables.min.js" type="text/javascript"></script>
 <script src="js/rocket-loader.min.js"></script>
 </body>
 </html>

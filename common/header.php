@@ -9,7 +9,7 @@
     <link rel="icon" type="image/png" href="img/logo.png">
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="vendor/slider/slider.css">
-    <link href="vendor/select2/css/select2-bootstrap.css" />
+    <!-- <link href="vendor/select2/css/select2-bootstrap.css" /> -->
     <link href="vendor/select2/css/select2.min.css" rel="stylesheet" />
     <link href="vendor/fontawesome/css/all.min.css" rel="stylesheet">
     <link href="vendor/icofont/icofont.min.css" rel="stylesheet">
